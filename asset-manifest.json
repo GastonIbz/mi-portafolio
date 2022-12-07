@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/mi-portafolio/static/css/main.e9721759.css",
+    "main.js": "/mi-portafolio/static/js/main.1acda1ed.js",
+    "static/media/travelAndAdventure.jpg": "/mi-portafolio/static/media/travelAndAdventure.8f821e4979e677e061a4.jpg",
+    "static/media/intro-bg.jpg": "/mi-portafolio/static/media/intro-bg.1659fd11a6df2d06e85f.jpg",
+    "static/media/ringo.png": "/mi-portafolio/static/media/ringo.53d9cbdaea5f4a85847f.png",
+    "static/media/movies.jpg": "/mi-portafolio/static/media/movies.e7aa270b9d7584a5bb4b.jpg",
+    "static/media/krono.jpg": "/mi-portafolio/static/media/krono.a9027e71421f5b1d601a.jpg",
+    "static/media/html.png": "/mi-portafolio/static/media/html.1d7b133e22ffe4829da6.png",
+    "static/media/Photoshop.png": "/mi-portafolio/static/media/Photoshop.b82ae1e8e7cd603e8769.png",
+    "static/media/DesignThinking.png": "/mi-portafolio/static/media/DesignThinking.1ef27bf464a9baa09ce8.png",
+    "static/media/Uxui.png": "/mi-portafolio/static/media/Uxui.f5138f5f5c93fd06855b.png",
+    "static/media/react.png": "/mi-portafolio/static/media/react.cd4ab68456d5875b788e.png",
+    "static/media/js.png": "/mi-portafolio/static/media/js.e32b84a15dc9fb3b0711.png",
+    "static/media/Illustraitor.png": "/mi-portafolio/static/media/Illustraitor.c4ae78146dca0711e2f6.png",
+    "static/media/css.png": "/mi-portafolio/static/media/css.bc75ccc78e3bf74f8aed.png",
+    "static/media/Figma.png": "/mi-portafolio/static/media/Figma.46400ab8543f71a3650b.png",
+    "static/media/Github.png": "/mi-portafolio/static/media/Github.562cd1af0dd60d5da40d.png",
+    "index.html": "/mi-portafolio/index.html",
+    "main.e9721759.css.map": "/mi-portafolio/static/css/main.e9721759.css.map",
+    "main.1acda1ed.js.map": "/mi-portafolio/static/js/main.1acda1ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9721759.css",
+    "static/js/main.1acda1ed.js"
+  ]
+}
